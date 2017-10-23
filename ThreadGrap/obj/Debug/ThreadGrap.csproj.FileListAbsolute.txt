@@ -1,6 +1,0 @@
-c:\users\racet_000\documents\visual studio 2013\Projects\ThreadGrap\ThreadGrap\bin\Debug\ThreadGrap.exe.config
-C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\ThreadGrap\bin\Debug\ThreadGrap.exe
-C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\ThreadGrap\bin\Debug\ThreadGrap.pdb
-C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\ThreadGrap\obj\Debug\ThreadGrap.csprojResolveAssemblyReference.cache
-C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\ThreadGrap\obj\Debug\ThreadGrap.exe
-C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\ThreadGrap\obj\Debug\ThreadGrap.pdb
