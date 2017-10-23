@@ -69,38 +69,8 @@
     <Compile Include="Histogramm.Designer.cs">
       <DependentUpon>Histogramm.cs</DependentUpon>
     </Compile>
-    <Compile Include="KannisBorderDetector.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="KannisBorderDetector.Designer.cs">
-      <DependentUpon>KannisBorderDetector.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Kriterii.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Kriterii.Designer.cs">
-      <DependentUpon>Kriterii.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MedFilt.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MedFilt.Designer.cs">
-      <DependentUpon>MedFilt.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Noise.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Noise.Designer.cs">
-      <DependentUpon>Noise.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sigma-Filter.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Sigma-Filter.Designer.cs">
-      <DependentUpon>Sigma-Filter.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="BrightCut.resx">
       <DependentUpon>BrightCut.cs</DependentUpon>
     </EmbeddedResource>
@@ -113,18 +83,6 @@
     <EmbeddedResource Include="Histogramm.resx">
       <DependentUpon>Histogramm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="KannisBorderDetector.resx">
-      <DependentUpon>KannisBorderDetector.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Kriterii.resx">
-      <DependentUpon>Kriterii.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MedFilt.resx">
-      <DependentUpon>MedFilt.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Noise.resx">
-      <DependentUpon>Noise.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -134,9 +92,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Sigma-Filter.resx">
-      <DependentUpon>Sigma-Filter.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

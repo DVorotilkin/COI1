@@ -55,7 +55,7 @@ namespace Laba1_COI
         {
             firstFlag = trackBar1.Value;
             secondFlag = trackBar2.Value;
-            main.getBrightCut(firstFlag, secondFlag);
+            main.setBrightCut(firstFlag, secondFlag);
             main.isSeccessfullyForm(true);
             this.Close();
         }

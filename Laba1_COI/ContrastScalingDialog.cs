@@ -28,7 +28,7 @@ namespace Laba1_COI
             coofScalling = trackBar1.Value;
             firstFlag = trackBar2.Value;
             secondFlag = trackBar3.Value;
-            main.getContrastScalingPar(coofScalling, firstFlag, secondFlag);
+            main.setContrastScalingPar(coofScalling, firstFlag, secondFlag);
             main.isSeccessfullyForm(true);
             this.Close();
             
