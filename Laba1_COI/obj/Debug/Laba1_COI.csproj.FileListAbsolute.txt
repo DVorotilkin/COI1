@@ -1,0 +1,163 @@
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Chart.resources
+C:\Users\Racet_000\documents\visual studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+H:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+H:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+H:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Chart.resources
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+H:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+F:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+F:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+F:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+D:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+D:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+D:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+E:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+E:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+E:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+I:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+I:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+I:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+I:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Noise.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Noise.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Noise.resources
+G:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+G:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+G:\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Noise.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Sigma_Filter.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Sigma_Filter.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Sigma_Filter.resources
+E:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Kriterii.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Kriterii.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.MedFilt.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Kriterii.resources
+F:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.MedFilt.resources
+G:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.KannisBorderDetector.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.KannisBorderDetector.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Kriterii.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.MedFilt.resources
+D:\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Sigma_Filter.resources
+C:\Users\Вита\Desktop\5 семестр\цои\Kruglov\Круглов\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+C:\Users\Вита\Desktop\5 семестр\цои\Kruglov\Круглов\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+C:\Users\Вита\Desktop\5 семестр\цои\Kruglov\Круглов\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.exe
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.pdb
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.exe
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\bin\Debug\Laba1_COI.pdb
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.KannisBorderDetector.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Kriterii.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.MedFilt.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Noise.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.Sigma_Filter.resources
+C:\Users\Вита\Documents\Visual Studio 2013\Projects\ThreadGrap\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+F:\цои\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.exe
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.pdb
+F:\цои\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.exe
+F:\цои\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.pdb
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.KannisBorderDetector.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Kriterii.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.MedFilt.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Noise.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Sigma_Filter.resources
+F:\цои\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\учёба\ЦОИ\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+C:\Users\Lenovo\Desktop\учёба\ЦОИ\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.exe
+C:\Users\Lenovo\Desktop\учёба\ЦОИ\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.pdb
+C:\Users\Lenovo\Desktop\учёба\ЦОИ\не\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+C:\Users\Lenovo\Desktop\учёба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.exe
+C:\Users\Lenovo\Desktop\учёба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.pdb
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.exe.config
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.exe
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.pdb
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.exe
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\bin\Debug\Laba1_COI.pdb
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.csprojResolveAssemblyReference.cache
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.BrightCut.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.ContrastScalingDialog.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Form1.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Histogramm.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.KannisBorderDetector.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Kriterii.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.MedFilt.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Noise.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Properties.Resources.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.Sigma_Filter.resources
+D:\Учеба\ЦОИ\не\от Кондратьева\Laba1_COI\obj\Debug\Laba1_COI.csproj.GenerateResource.Cache
