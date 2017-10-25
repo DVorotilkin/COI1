@@ -135,12 +135,6 @@ namespace Laba1_COI
         //----Гистограмма
         #region Меню "Гистограмма"
 
-        private void равномернаяToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Histogramm H = new Histogramm(1);
-            H.Owner = this;
-            H.Show();
-        }
         //------Пункт меню Равномерная
 
         private void экспоненциальнаяToolStripMenuItem_Click(object sender, EventArgs e)
@@ -150,14 +144,6 @@ namespace Laba1_COI
             H.Show();
         }
         //------Пункт меню экспоненциальная
-
-        private void законРаспределенияРелеяToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Histogramm H = new Histogramm(3);
-            H.Owner = this;
-            H.Show();
-        }
-        //------Пункт меню закон распределения Релея
 
         private void степени23ToolStripMenuItem_Click(object sender, EventArgs e)
         {

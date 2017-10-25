@@ -37,9 +37,7 @@
             this.инвертированноеКонтрастноеМасштабированиеToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.яркостнойСрезToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.алгоритмыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.равномернаяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.экспоненциальнаяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.законРаспределенияРелеяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.степени23ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.гиперболическаяToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
@@ -122,9 +120,7 @@
             // алгоритмыToolStripMenuItem
             // 
             this.алгоритмыToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.равномернаяToolStripMenuItem,
             this.экспоненциальнаяToolStripMenuItem,
-            this.законРаспределенияРелеяToolStripMenuItem,
             this.степени23ToolStripMenuItem,
             this.гиперболическаяToolStripMenuItem});
             this.алгоритмыToolStripMenuItem.Enabled = false;
@@ -132,38 +128,24 @@
             this.алгоритмыToolStripMenuItem.Size = new System.Drawing.Size(92, 20);
             this.алгоритмыToolStripMenuItem.Text = "Гистограмма";
             // 
-            // равномернаяToolStripMenuItem
-            // 
-            this.равномернаяToolStripMenuItem.Name = "равномернаяToolStripMenuItem";
-            this.равномернаяToolStripMenuItem.Size = new System.Drawing.Size(229, 22);
-            this.равномернаяToolStripMenuItem.Text = "Равномерная";
-            this.равномернаяToolStripMenuItem.Click += new System.EventHandler(this.равномернаяToolStripMenuItem_Click);
-            // 
             // экспоненциальнаяToolStripMenuItem
             // 
             this.экспоненциальнаяToolStripMenuItem.Name = "экспоненциальнаяToolStripMenuItem";
-            this.экспоненциальнаяToolStripMenuItem.Size = new System.Drawing.Size(229, 22);
+            this.экспоненциальнаяToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.экспоненциальнаяToolStripMenuItem.Text = "Экспоненциальная";
             this.экспоненциальнаяToolStripMenuItem.Click += new System.EventHandler(this.экспоненциальнаяToolStripMenuItem_Click);
-            // 
-            // законРаспределенияРелеяToolStripMenuItem
-            // 
-            this.законРаспределенияРелеяToolStripMenuItem.Name = "законРаспределенияРелеяToolStripMenuItem";
-            this.законРаспределенияРелеяToolStripMenuItem.Size = new System.Drawing.Size(229, 22);
-            this.законРаспределенияРелеяToolStripMenuItem.Text = "Закон распределения Релея";
-            this.законРаспределенияРелеяToolStripMenuItem.Click += new System.EventHandler(this.законРаспределенияРелеяToolStripMenuItem_Click);
             // 
             // степени23ToolStripMenuItem
             // 
             this.степени23ToolStripMenuItem.Name = "степени23ToolStripMenuItem";
-            this.степени23ToolStripMenuItem.Size = new System.Drawing.Size(229, 22);
+            this.степени23ToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.степени23ToolStripMenuItem.Text = "Степени 2/3";
             this.степени23ToolStripMenuItem.Click += new System.EventHandler(this.степени23ToolStripMenuItem_Click);
             // 
             // гиперболическаяToolStripMenuItem
             // 
             this.гиперболическаяToolStripMenuItem.Name = "гиперболическаяToolStripMenuItem";
-            this.гиперболическаяToolStripMenuItem.Size = new System.Drawing.Size(229, 22);
+            this.гиперболическаяToolStripMenuItem.Size = new System.Drawing.Size(179, 22);
             this.гиперболическаяToolStripMenuItem.Text = "Гиперболическая";
             this.гиперболическаяToolStripMenuItem.Click += new System.EventHandler(this.гиперболическаяToolStripMenuItem_Click);
             // 
@@ -215,7 +197,6 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 13);
             this.label1.TabIndex = 6;
-
             // 
             // Form1
             // 
@@ -255,9 +236,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.TextBox DownConsole;
-        private System.Windows.Forms.ToolStripMenuItem равномернаяToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem экспоненциальнаяToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem законРаспределенияРелеяToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem степени23ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem гиперболическаяToolStripMenuItem;
         private System.Windows.Forms.Label label1;
